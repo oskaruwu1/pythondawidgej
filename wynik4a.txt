@@ -1,0 +1,2 @@
+Hasla z parzysta liczba znakow: 105
+Hasla z nieparzysta liczba znakow: 95
